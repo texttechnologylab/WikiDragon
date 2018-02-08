@@ -1,0 +1,309 @@
+<mediawiki xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mediawiki.org/xml/export-0.10/" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>simplewiki</dbname>
+    <base>https://simple.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.31.0-wmf.17</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>April</title>
+    <ns>0</ns>
+    <id>1</id>
+	    <revision>
+      <id>2130</id>
+      <timestamp>2003-03-27T09:24:48Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>667428</id>
+      </contributor>
+      <comment>Edited from English Wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''April''' is the fourth month of the year with 30 days.  Derived from that Latin word ''aperire'' which means &quot;to open&quot;, this probably refers to growing plants in spring.
+
+'''April in poetry'''
+
+Poets use ''April''  to mean the end of winter, for example ''April showers bring [[May]] flowers.''
+
+'''Events in April:'''
+
+*[[April Fool's Day]] occurs on April 1.
+*[[Easter]] occurs on a [[week|Sunday]] between [[March]] 22 and April 25 inclusive.
+
+''April'' begins on the same day of week as ''[[July]]'' in all years and also ''[[January]]'' in leap years.
+
+'''See Also:''' [[January]], [[February]], [[March]], '''April''', [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]], [[December]]
+</text>
+      <sha1>g1vldyqwrp9b6ot9f4t27k5n2lmibva</sha1>
+    </revision>
+	<!-- Following Revision intentionally in wrong order-->
+	<revision>
+      <id>5043</id>
+      <parentid>4183</parentid>
+      <timestamp>2004-03-08T17:09:24Z</timestamp>
+      <contributor>
+        <username>HasharBot~simplewiki</username>
+        <id>11</id>
+      </contributor>
+      <minor />
+      <comment>HasharBot - warnfile  Adding:el,eo,en,zh,ko,ca,it,cy,ga,cs,et,es,nl,pl,fr,hr,fy,de,da,hu,ja,oc,sv,sl</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''April''' is the fourth month of the year with 30 days.  Derived from that Latin word ''aperire'' which means &quot;to open&quot;, this probably refers to growing plants in spring.
+
+'''April in poetry'''
+
+Poets use ''April''  to mean the end of winter, for example ''April showers bring [[May]] flowers.''
+
+'''Events in April:'''
+
+*[[April Fool's Day]] occurs on April 1.
+*[[Easter]] occurs on a [[week|Sunday]] between [[March]] 22 and April 25 inclusive.
+
+''April'' begins on the same day of week as ''[[July]]'' in all years and also ''[[January]]'' in leap years.
+
+'''See Also:''' [[January]], [[February]], [[March]], '''April''', [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]], [[December]]
+
+[[ca:Abril]]
+[[cs:Duben]]
+[[cy:Ebrill]]
+[[da:April]]
+[[de:April]]
+[[el:Απρίλιος]]
+[[en:April]]
+[[eo:Aprilo]]
+[[es:Abril]]
+[[et:Aprill]]
+[[fr:Avril]]
+[[fy:April]]
+[[ga:Aibreán]]
+[[hr:Travanj]]
+[[hu:Április]]
+[[it:Aprile]]
+[[ja:4月]]
+[[ko:4월]]
+[[nl:April]]
+[[oc:Abril]]
+[[pl:Kwiecień]]
+[[ro:Aprilie]]
+[[sl:April]]
+[[sv:April]]
+[[zh:4月]]</text>
+      <sha1>pw5nm99ugm24euxmlq2g4t0jcmuw0zq</sha1>
+    </revision>
+    <revision>
+      <id>4183</id>
+      <parentid>2130</parentid>
+      <timestamp>2003-12-23T13:23:09Z</timestamp>
+      <contributor>
+        <ip>193.226.99.14</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''April''' is the fourth month of the year with 30 days.  Derived from that Latin word ''aperire'' which means &quot;to open&quot;, this probably refers to growing plants in spring.
+
+'''April in poetry'''
+
+Poets use ''April''  to mean the end of winter, for example ''April showers bring [[May]] flowers.''
+
+'''Events in April:'''
+
+*[[April Fool's Day]] occurs on April 1.
+*[[Easter]] occurs on a [[week|Sunday]] between [[March]] 22 and April 25 inclusive.
+
+''April'' begins on the same day of week as ''[[July]]'' in all years and also ''[[January]]'' in leap years.
+
+'''See Also:''' [[January]], [[February]], [[March]], '''April''', [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]], [[December]]
+
+[[ro:Aprilie]]</text>
+      <sha1>ftj0q1qjtfcfh679tnugw3n7hyfeswv</sha1>
+    </revision>    
+	</page>
+	<page>
+    <title>August</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>2049</id>
+      <timestamp>2003-03-27T11:02:15Z</timestamp>
+      <contributor>
+        <username>Ams80</username>
+        <id>667428</id>
+      </contributor>
+      <comment>Edited from English Wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''August''' is the eighth month of the year with 31 days.  Named for [[Augustus|Augustus Octavianus]]. The month has 31 days because Augustus wanted as many days as [[Julius Caesar]]'s [[July]].
+
+''August'' begins on the same day of week as ''February'' in a leap year.
+
+In [[Ireland]], August used to be known as [[Lughnasadh]], named after the god [[Lugh]]
+
+'''See Also:''' [[January]], [[February]], [[March]], [[April]], [[May]], [[June]], [[July]], '''August''', [[September]], [[October]], [[November]], [[December]].
+</text>
+      <sha1>7m0qhu4wc2gzupc5imm8vz3fn2pzhej</sha1>
+    </revision>
+	</page>
+	<!-- Continued page -->
+	<page>
+    <title>April</title>
+    <ns>0</ns>
+    <id>1</id>
+	<revision>
+      <id>5715</id>
+      <parentid>5043</parentid>
+      <timestamp>2004-04-01T13:15:16Z</timestamp>
+      <contributor>
+        <username>Webkid~simplewiki</username>
+        <id>261</id>
+      </contributor>
+      <comment>+bg:</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''April''' is the fourth month of the year with 30 days.  Derived from that Latin word ''aperire'' which means &quot;to open&quot;, this probably refers to growing plants in spring.
+
+'''April in poetry'''
+
+Poets use ''April''  to mean the end of winter, for example ''April showers bring [[May]] flowers.''
+
+'''Events in April:'''
+
+*[[April Fool's Day]] occurs on April 1.
+*[[Easter]] occurs on a [[week|Sunday]] between [[March]] 22 and April 25 inclusive.
+
+''April'' begins on the same day of week as ''[[July]]'' in all years and also ''[[January]]'' in leap years.
+
+'''See Also:''' [[January]], [[February]], [[March]], '''April''', [[May]], [[June]], [[July]], [[August]], [[September]], [[October]], [[November]], [[December]]
+
+[[bg:&amp;#1040;&amp;#1087;&amp;#1088;&amp;#1080;&amp;#1083;]]
+[[ca:Abril]]
+[[cs:Duben]]
+[[cy:Ebrill]]
+[[da:April]]
+[[de:April]]
+[[el:Απρίλιος]]
+[[en:April]]
+[[eo:Aprilo]]
+[[es:Abril]]
+[[et:Aprill]]
+[[fr:Avril]]
+[[fy:April]]
+[[ga:Aibreán]]
+[[hr:Travanj]]
+[[hu:Április]]
+[[it:Aprile]]
+[[ja:4月]]
+[[ko:4월]]
+[[nl:April]]
+[[oc:Abril]]
+[[pl:Kwiecień]]
+[[ro:Aprilie]]
+[[sl:April]]
+[[sv:April]]
+[[zh:4月]]</text>
+      <sha1>otng4apcqcf5354x4ztow1ckgncpfh6</sha1>
+    </revision>
+	</page>
+	<page>
+    <title>Category:Computer science</title>
+    <ns>14</ns>
+    <id>4985</id>
+    <revision>
+      <id>12322</id>
+      <timestamp>2004-07-25T19:39:03Z</timestamp>
+      <contributor>
+        <username>Francois Trazzi~simplewiki</username>
+        <id>457</id>
+      </contributor>
+      <minor />
+      <comment>link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Article [[computer science]]</text>
+      <sha1>12w5o224c4rx1k24iamku4t3eujswji</sha1>
+    </revision>
+    <revision>
+      <id>15143</id>
+      <parentid>12322</parentid>
+      <timestamp>2004-07-25T19:40:47Z</timestamp>
+      <contributor>
+        <username>Francois Trazzi~simplewiki</username>
+        <id>457</id>
+      </contributor>
+      <minor />
+      <comment>categories</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[da:Kategori:Datalogi]]
+[[de:Kategorie:Informatik]]
+[[en:Category:Computer science]]
+[[fr:Informatique]]
+[[nl:Categorie:Informatica]]
+[[sv:Kategori:Datavetenskap]]
+
+Article [[computer science]]</text>
+      <sha1>6nm660lxi016h7rvr8xhychy6pq7ab4</sha1>
+    </revision>
+	</page>
+	<page>
+    <title>Template:Stub</title>
+    <ns>10</ns>
+    <id>1890</id>
+    <revision>
+      <id>3960</id>
+      <timestamp>2003-12-18T23:08:54Z</timestamp>
+      <contributor>
+        <username>Angela</username>
+        <id>2</id>
+      </contributor>
+      <minor />
+      <comment>''This article is a [[Wikipedia:The perfect stub article|stub]]. You can help Wikipedia by [[Wikipedia:Find or fix a stub|fixing it]].''</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">''This article is a [[Wikipedia:The perfect stub article|stub]]. You can help Wikipedia by [[Wikipedia:Find or fix a stub|fixing it]].''</text>
+      <sha1>ii2frirtp8cjjfvg8hxxrbwovx82dl7</sha1>
+    </revision>
+    <revision>
+      <id>21195</id>
+      <parentid>3960</parentid>
+      <timestamp>2004-03-03T21:07:27Z</timestamp>
+      <contributor>
+        <username>Niteowlneils~simplewiki</username>
+        <id>160</id>
+      </contributor>
+      <comment>update text to simpler version of msg on en.wikipedia.org</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">''This article is a [[Wikipedia:The perfect stub article|stub]]. You can help Wikipedia by [[Wikipedia:Find or fix a stub|adding to it]].''</text>
+      <sha1>g9dnrnqm1hsklry069rzf2owljtdffr</sha1>
+    </revision>
+	</page>
+</mediawiki>
